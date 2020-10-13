@@ -1,0 +1,8 @@
+import * as types from './mutation-types'
+
+const mutations = {
+    [types.SET_TOKEN](state: any, token: string) {
+        state.token = token
+    }
+}
+export default mutations

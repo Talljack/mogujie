@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea
+.vscode
+
+# build assets
+/output
+/dist
+/dll
+
+node_modules*
+web/*
